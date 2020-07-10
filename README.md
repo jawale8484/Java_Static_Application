@@ -1,1 +1,1 @@
-# Java_Static_Application
+ Java_Standalone_Application
